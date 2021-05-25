@@ -1,0 +1,11 @@
+* {
+  background-color: #bf930d;
+  width: auto;
+}
+
+.horario {
+  background-color: black;
+  color: white;
+  border-radius: 100px;
+  text-align: center;
+}

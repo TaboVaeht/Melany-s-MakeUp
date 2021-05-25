@@ -1,0 +1,104 @@
+* {
+  background-color: black;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.title {
+  width: 800px;
+  height: 45px;
+  color: white;
+  font-size: 35px;
+  font-family: "calibri";
+  border-radius: 4px;
+  margin-top: 160px;
+  margin: 100px;
+  background: #24303c;
+  text-decoration: inherit;
+  margin-bottom: auto;
+}
+
+.servicios {
+  background: white;
+  width: 230px;
+  color: black;
+  border-radius: 40px;
+  font-family: "calibri";
+  font-size: 42px;
+  height: 55px;
+  margin-left: 700px;
+  margin-top: 50px;
+  text-decoration: none;
+  text-align: center;
+}
+
+.Instagram a {
+  text-decoration: none;
+  background-color: #BDBDBD;
+  color: black;
+  border-radius: 15px;
+}
+
+.ig {
+
+}
+
+.personal {
+  width: 800px;
+  height: 45px;
+  margin-top: 20px;
+
+  font-size: 27px;
+}
+
+.Melany {
+  font-size: 90px;
+  text-align: center;
+}
+
+.yt {
+
+}
+
+.Contactanos {
+  width: 800px;
+  height: 45px;
+  color: black;
+  font-size: 35px;
+  font-family: "calibri";
+  border-radius: 15px;
+  margin: 100px;
+  background: #BDBDBD;
+  text-decoration: inherit;
+  margin-bottom: auto;
+  margin-left: 600px;
+}
+
+.Contactanos a {
+  background-color: #BDBDBD;
+  border-radius: 15px;
+  text-decoration: none;
+  color: black;
+}
+
+.Instagram {
+  width: 800px;
+  height: 45px;
+  color: black;
+  font-size: 35px;
+  font-family: "calibri";
+  border-radius: 15px;
+  margin-top: 160px;
+  margin: 100px;
+  background: #BDBDBD;
+  text-decoration: inherit;
+  margin-bottom: auto;
+  margin-left: 300px;
+}
+
+.imagen {
+  width: 500px;
+  height: 150px;
+  margin-left: 550px;
+}
